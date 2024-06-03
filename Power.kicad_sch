@@ -1,0 +1,122 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ce9e9c32-fa94-4bfe-9e50-50b8dbf63661")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 22.86 24.13)
+		(size 19.05 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1bf2be0d-584a-45c4-b290-f3cb8ab81fb5")
+		(property "Sheetname" "Power_Input"
+			(at 22.86 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_Input.kicad_sch"
+			(at 22.86 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Scanbot"
+				(path "/c68672ea-fdfd-4e57-9584-0a609e86d0f0/25520a7e-eaa0-4b35-abf4-e6cae340348e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 69.85 48.26)
+		(size 29.21 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1ca0e5e6-ad0c-4752-86bd-94af1cf580b1")
+		(property "Sheetname" "DDR_Power"
+			(at 69.85 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DDR_Power.kicad_sch"
+			(at 69.85 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Scanbot"
+				(path "/c68672ea-fdfd-4e57-9584-0a609e86d0f0/25520a7e-eaa0-4b35-abf4-e6cae340348e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 69.85 24.13)
+		(size 26.67 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b81aa262-c14e-4f67-bde2-d737ad75fe80")
+		(property "Sheetname" "SoC_Power"
+			(at 69.85 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SoC_Power.kicad_sch"
+			(at 69.85 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Scanbot"
+				(path "/c68672ea-fdfd-4e57-9584-0a609e86d0f0/25520a7e-eaa0-4b35-abf4-e6cae340348e"
+					(page "4")
+				)
+			)
+		)
+	)
+)
